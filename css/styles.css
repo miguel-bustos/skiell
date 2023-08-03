@@ -1,8 +1,15 @@
 body {
-  color: white;
-  background-color: black;
-  padding: 2vh;
-  text-align: center;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-  font-size: 5vh;
+	color: white;
+	background-color: black;
+	padding: 2vh;
+	text-align: center;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+p.large {
+	font-size: xxx-large;
+}
+
+p.small {
+	font-size: small;
 }
